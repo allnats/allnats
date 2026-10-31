@@ -11,5 +11,8 @@
     <td>Test</td>
     <td>Test</td>
   </tr>
+  <tr>
+    <td colspan="3" align="center">Big boy</td>
+  </tr>
 </tbody>
 </table>
