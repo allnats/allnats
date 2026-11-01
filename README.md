@@ -1,51 +1,64 @@
 <p width="100%" align="center">
-  <img align="center" src="assets/welcome_1.gif"/>
+  <img align="center" src="assets/welcome_1.gif" />
 </p>
 
 <p align="center">
-<img src="assets/fish.gif" align="center"/>
+  <img src="assets/fish.gif" align="center" />
 </p>
-<table align="center"  width="100%" cellspacing="0" cellpadding="5">
-<tbody>
-  <tr>
-    <td colspan="2">
-      <p align="center">
-        <img src="assets/about_me.gif" />
-      </p>
-      <p align="center">
-      My name is Allendale, you can call me Allen.
-      <br/>
-      I'm an aspiring full-stack web and game developer.
-      </p>
-    </td>
-    <td align="center" >
-    <marquee behavior="alternate">
-    <img src="assets/pizza-dance.gif" />
-    </marquee>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-        <img src="assets/wwwbutton.gif" />
+
+<table align="center" width="100%" cellspacing="0" cellpadding="5">
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <p align="center">
+          <img src="assets/about_me.gif" />
+        </p>
+        <p align="center">
+          My name is Allendale, you can call me Allen.
+          <br />
+          I'm an aspiring full-stack web and game developer.
+        </p>
+        <p align="center">
+          <img align="center" src="assets/userbox_graphics.jpg" />
+        </p>
+      </td>
+      <td align="center">
+        <img src="assets/pizza-dance.gif" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <img src="assets/html_dream.webp" />
         <img src="assets/eye_open.gif" />
-        <img src="assets/getfirefox.gif" />
+        <img src="assets/wwwbutton.gif" />
         <img src="assets/amazing_free_stuff.gif" />
-    </td>
-  </tr>
-</tbody>
+        <img src="assets/NYA!.gif" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <table align="center">
   <tbody>
     <tr>
       <td align="center">
-          <img src="assets/skeleton-wave.gif"/>
+        <img width="250px" src="assets/computer 255.gif" />
       </td>
       <td colspan="2">
         <p align="center">
-          <img src="assets/projects.gif" />
+          <img src="assets/techstack.gif" />
         </p>
       </td>
     </tr>
+    <tr>
+      <td>Web Development</td>
+      <td>HTML, CSS, Javascript/Typescript, React, Astro, Node.js</td>
+    </tr>
   </tbody>
 </table>
+
+### Favourite Pokemon
+
+<img src="assets/slowpoke.gif"/>
+<img src="assets/slowpoke_2.gif"/>
+<img src="assets/slowpoke_3.gif"/>
