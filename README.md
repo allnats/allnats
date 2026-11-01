@@ -32,15 +32,20 @@
         <img src="assets/amazing_free_stuff.gif" />
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="3">
-    <marquee behavior="alternate" scrollamount="10">
-        <img src="assets/casino.gif" />
-        <img src="assets/yahoo-pager-1998.gif" />
-        <img src="assets/dice-2000.gif" />
-        <img src="assets/match-com-2000.gif" />
-    </marquee>
-    </td>
-  </tr>
 </tbody>
+</table>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+          <img src="assets/skeleton-wave.gif"/>
+      </td>
+      <td colspan="2">
+        <p align="center">
+          <img src="assets/projects.gif" />
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
