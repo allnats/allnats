@@ -19,7 +19,9 @@
       </p>
     </td>
     <td align="center" >
+    <marquee behavior="alternate">
     <img src="assets/pizza-dance.gif" />
+    </marquee>
     </td>
   </tr>
   <tr>
@@ -32,7 +34,12 @@
   </tr>
   <tr>
     <td align="center" colspan="3">
+    <marquee behavior="alternate" scrollamount="10">
         <img src="assets/casino.gif" />
+        <img src="assets/yahoo-pager-1998.gif" />
+        <img src="assets/dice-2000.gif" />
+        <img src="assets/match-com-2000.gif" />
+    </marquee>
     </td>
   </tr>
 </tbody>
