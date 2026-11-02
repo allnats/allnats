@@ -16,8 +16,13 @@
         <p align="center">
          Hi!!! My name is $\huge\color{	#FF00FF}{\mathcal{ALLEN}}$
           <br />
-          I'm an aspiring full-stack web and game developer.
+          i like to break stuff... and i make no mistakes
         </p>
+        <ul>
+          <li>doing web dev</li>
+          <li>learning game dev (learning Godot)</li>
+          <li>misses the old web</li>
+        </ul>
         <p align="center">
           <img align="center" src="assets/userbox_graphics.jpg" />
         </p>
