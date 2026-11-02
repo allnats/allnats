@@ -18,7 +18,7 @@
           <br />
           i like to break stuff... and i make no mistakes
         </p>
-        <ul>
+        <ul align="center">
           <li>doing web dev</li>
           <li>learning game dev (learning Godot)</li>
           <li>misses the old web</li>
@@ -44,7 +44,7 @@
 </table>
 
 <table align="center">
-  <tbody>
+  <tbody align="center">
     <tr>
       <td colspan="1">
       <p align="center">
@@ -58,14 +58,34 @@
       </td>
     </tr>
     <tr>
-      <td>Web Development</td>
-      <td>HTML, CSS, Javascript/Typescript, React, Astro, Node.js</td>
+      <td align="center"><strong>Languages</strong></td>
+      <td>HTML, CSS, Javascript/Typescript, Python, Bash, C</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Web Dev</strong></td>
+      <td>NodeJS, Express, React, Tailwind, Git</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Data & Cloud</strong></td>
+      <td>PostgreSQL, AWS, Azure, Docker, Vagrant</td>
     </tr>
   </tbody>
 </table>
 
 ### Favourite Pokemon
 
-<img src="assets/slowpoke.gif"/>
-<img src="assets/slowpoke_2.gif"/>
-<img src="assets/slowpoke_3.gif"/>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <h3>$\huge\color{	#ffff00}{\texttt{Favourite Pokemon}}$</h3>
+        <p>
+          <img src="assets/slowpoke.gif"/>
+          <img src="assets/slowpoke_2.gif"/>
+          <img src="assets/slowpoke_3.gif"/>
+        </p>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
