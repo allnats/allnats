@@ -14,7 +14,7 @@
           <img src="assets/about_me.gif" />
         </p>
         <p align="center">
-         Hi!!! My name is $\color{#58A6FF}{\mathcal{ALLEN}}$
+         Hi!!! My name is $\huge\color{	#FF00FF}{\mathcal{ALLEN}}$
           <br />
           I'm an aspiring full-stack web and game developer.
         </p>
