@@ -14,7 +14,7 @@
           <img src="assets/about_me.gif" />
         </p>
         <p align="center">
-          My name is Allendale, you can call me Allen.
+          My name is Allendale, you can $\color{#58A6FF}{\text{blue text}}$
           <br />
           I'm an aspiring full-stack web and game developer.
         </p>
@@ -42,7 +42,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="250px" src="assets/computer 255.gif" />
+        <img width="250px" src="assets/computer 260.gif" />
       </td>
       <td colspan="2">
         <p align="center">
