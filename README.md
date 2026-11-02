@@ -72,17 +72,25 @@
   </tbody>
 </table>
 
-### Favourite Pokemon
-
 <table>
   <tbody>
     <tr>
-      <td>
-        <h3>$\huge\color{	#ffff00}{\texttt{Favourite Pokemon}}$</h3>
-        <p>
+      <td align="center">
+        <h3>$\huge\color{	#bdbd14}{\mathbb{Favourite Pokemon}}$</h3>
+        <p align="center">
           <img src="assets/slowpoke.gif"/>
           <img src="assets/slowpoke_2.gif"/>
           <img src="assets/slowpoke_3.gif"/>
+        </p>
+      </td>
+      <td align="center">
+        <h3>$\huge\color{	#109f42}{\texttt{Cactus Garden}}$</h3>
+        <p align="center">
+          <img src="assets/cactus 10.gif"/>
+          <img src="assets/cactus 11.gif"/>
+          <img src="assets/cactus 12.gif"/>
+          <img src="assets/cactus 13.gif"/>
+          <img src="assets/cactus 8.gif"/>
         </p>
       </td>
     </tr>
