@@ -108,11 +108,9 @@
         </p>
       </td>
       <td align="center">
-        <h3>$\huge\color{	#109f42}{\text{UNDERTALE}}$</h3>
+        <h3>$\huge{\text{dog}}$</h3>
         <p align="center">
-          <img src="assets/act_undertale.jpg"/>
           <img src="assets/undertale_dog.webp"/>
-          <img src="assets/mercy_undertale.jpg"/>
         </p>
       </td>
     </tr>
