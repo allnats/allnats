@@ -86,7 +86,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center">
