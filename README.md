@@ -41,8 +41,10 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center">
-        <img width="250px" src="assets/computer 260.gif" />
+      <td colspan="1">
+      <p align="center">
+        <img src="assets/computer 260.gif" />
+      </p>
       </td>
       <td colspan="2">
         <p align="center">
