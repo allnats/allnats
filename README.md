@@ -72,6 +72,20 @@
   </tbody>
 </table>
 
+<table cellspacing="0">
+  <tr>
+    <td colspan="1">
+      <img src="assets/yahoo-pager-1998.gif" />
+    </td>
+    <td colspan="1">
+        <img src="assets/casino.gif" />
+    </td>
+    <td colspan="1">
+      <img src="assets/dice-2000.gif" />
+    </td>
+  </tr>
+</table>
+
 <table>
   <tbody>
     <tr>
